@@ -2,8 +2,8 @@
 
 Este proyecto contiene una aplicación web en **Node.js** con **Express**, empaquetada en un contenedor **Docker** (UDEA 2026).
 
-David Gomez Agudelo
-Santiago Trespalacios Bolivar
+David Gomez Agudelo,
+Santiago Trespalacios Bolivar,
 Juan Camilo Arboleda Arboleda
 ---
 
