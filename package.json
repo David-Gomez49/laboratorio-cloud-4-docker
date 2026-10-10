@@ -1,0 +1,21 @@
+{
+  "name": "laboratorio4-docker",
+  "version": "1.0.0",
+  "description": "Laboratorio 4 - Contenedores y Despliegue con Docker (UDEA)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "docker",
+    "express",
+    "nodejs",
+    "udea"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
